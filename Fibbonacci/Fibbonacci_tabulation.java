@@ -1,3 +1,4 @@
+package Fibbonacci;
 // tabulation approach
 
 import java.util.Scanner;

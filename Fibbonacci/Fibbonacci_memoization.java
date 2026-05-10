@@ -1,3 +1,4 @@
+package Fibbonacci;
 // memoization method
 import java.util.Scanner;
 import java.util.Arrays;

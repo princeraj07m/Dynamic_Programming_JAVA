@@ -1,3 +1,4 @@
+package Fibbonacci;
 // most omptimal approach
 import java.util.Scanner;
 
